@@ -1,0 +1,8 @@
+{
+  "equipo": "G00",
+  "integrantes": [
+    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
+    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" },
+    { "nombre": "Nombre Apellido", "codigo": "CODIGO UTEC" }
+  ]
+}
